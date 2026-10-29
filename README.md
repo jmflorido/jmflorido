@@ -9,8 +9,8 @@ I bring 15+ years of experience in industrial-logistics, digitizing processes an
 ### About Me
 
 - 👀 Interested in many tech fields, with a focus on programming.
-- 😁 Currently I'm a student at 42 Urduliz programming campus.
-- 💡 I enjoy sharing my progress, projects, and learnings here on GitHub.
+- 😁 Currently I'm a student at "42 Urduliz Bizkaia Fundación Telefónica" programming campus.
+- 💡 I enjoy sharing my progress, projects and learnings here on GitHub.
 
 ---
 

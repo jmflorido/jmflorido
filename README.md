@@ -61,7 +61,7 @@ Feel free to reach out if you want to share knowledge or collaborate.
 
 Thanks for stopping by! 😊
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArLoTeTxU&data=followers,repositories,stars,commits&theme=nautilus)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jmflorido&data=followers,repositories,stars,commits&theme=nautilus)
 
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,python,bash,powershell,visualbasic,markdown&software=linux,windows&theme=nautilus&includeNames=true)
